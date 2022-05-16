@@ -1,0 +1,1067 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="310bf439-8c3e-4c77-b454-1113fc648712" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/gulimall-common/target/" />
+    <ignored path="$PROJECT_DIR$/gulimall-gateway/target/" />
+    <ignored path="$PROJECT_DIR$/renren-fast/target/" />
+    <ignored path="$PROJECT_DIR$/gulimall-member/target/" />
+    <ignored path="$PROJECT_DIR$/gulimall-project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="75">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gulimall-project/src/main/java/com/atguitu/gulimall/ideproject/Utils/NPM.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gulimall-project/src/main/java/com/atguitu/gulimall/ideproject/Utils/StartWeb.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gulimall-project/src/main/java/com/atguitu/gulimall/ideproject/Utils/FileAndPackageUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gulimall-project/src/main/java/com/atguitu/gulimall/ideproject/Utils/FileRunThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="237">
+              <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gulimall-project/src/main/java/com/atguitu/gulimall/ideproject/GulimallProjectApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gulimall-project/src/main/java/com/atguitu/gulimall/ideproject/service/impl/FileTableServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4914">
+              <caret line="208" column="56" selection-start-line="208" selection-start-column="56" selection-end-line="208" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gulimall-project/src/main/java/com/atguitu/gulimall/ideproject/controller/FileTableController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3726">
+              <caret line="163" column="15" selection-start-line="163" selection-start-column="15" selection-end-line="163" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gulimall-common/src/main/java/com/atguigu/common/utils/R.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1269">
+              <caret line="62" column="26" selection-start-line="62" selection-start-column="26" selection-end-line="62" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gulimall-project/src/main/java/com/atguitu/gulimall/ideproject/controller/ProjectTableController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="594">
+              <caret line="39" column="12" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gulimall-project/src/main/java/com/atguitu/gulimall/ideproject/service/impl/ProjectTableServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>product</find>
+      <find>println</find>
+      <find>System.out.println</find>
+      <find>????</find>
+      <find>zipkin</find>
+      <find>onAccessDenied</find>
+      <find>F</find>
+      <find>feign</find>
+      <find>loadbalancer</find>
+      <find>openfeign</find>
+      <find>core</find>
+      <find>build</find>
+      <find>o</find>
+      <find>feign.FeignException$BadRequest: status 400 reading</find>
+      <find>getRecentEiditProjectByUserId</find>
+      <find>selectAllProjectByUserId</find>
+      <find>addNewFile</find>
+      <find>setAllChilds</find>
+      <find>createFileByTemplate</find>
+      <find>getFileTableListByProjectId</find>
+      <find>getParentPath</find>
+      <find>redis</find>
+      <find>RedisConfig</find>
+      <find>saveUserAndInformIdeUser</find>
+      <find>devtools</find>
+      <find>.opsForValue().set(phone,code,600, TimeUnit.SECONDS);</find>
+      <find>getCodeByPhone</find>
+      <find>欢迎使用 renren-fast 人人快速开发平台 - Powered By https://www.renren.io/</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/MyWebIde_back-end" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/gulimall-project/src/main/java/com/atguitu/gulimall/ideproject/controller/TemplateTableController.java" />
+        <option value="$PROJECT_DIR$/gulimall-project/src/main/java/com/atguitu/gulimall/ideproject/dao/ProjectTableDao.java" />
+        <option value="$PROJECT_DIR$/gulimall-project/src/main/java/com/atguitu/gulimall/ideproject/entity/FileTableEntity.java" />
+        <option value="$PROJECT_DIR$/gulimall-project/src/main/java/com/atguitu/gulimall/ideproject/dao/FileTableDao.java" />
+        <option value="$PROJECT_DIR$/gulimall-project/src/main/java/com/atguitu/gulimall/ideproject/service/FileTableService.java" />
+        <option value="$PROJECT_DIR$/gulimall-project/src/main/resources/mapper/ideproject/FileTableDao.xml" />
+        <option value="$PROJECT_DIR$/gulimall-project/src/main/java/com/atguitu/gulimall/ideproject/Utils/Ziputils.java" />
+        <option value="$PROJECT_DIR$/gulimall-project/src/main/java/com/atguitu/gulimall/ideproject/service/impl/FileTableServiceImpl.java" />
+        <option value="$PROJECT_DIR$/gulimall-project/src/main/java/com/atguitu/gulimall/ideproject/entity/ProjectTableEntity.java" />
+        <option value="$PROJECT_DIR$/gulimall-project/src/main/resources/mapper/ideproject/ProjectTableDao.xml" />
+        <option value="$PROJECT_DIR$/gulimall-project/src/main/java/com/atguitu/gulimall/ideproject/Utils/FileAndPackageCopy.java" />
+        <option value="$PROJECT_DIR$/gulimall-project/src/main/java/com/atguitu/gulimall/ideproject/Utils/FileAndPackageUtil.java" />
+        <option value="$PROJECT_DIR$/gulimall-project/src/main/java/com/atguitu/gulimall/ideproject/Utils/StartWeb.java" />
+        <option value="$PROJECT_DIR$/gulimall-project/src/main/java/com/atguitu/gulimall/ideproject/Utils/NPM.java" />
+        <option value="$PROJECT_DIR$/gulimall-project/src/main/java/com/atguitu/gulimall/ideproject/controller/ProjectTableController.java" />
+        <option value="$PROJECT_DIR$/gulimall-project/src/main/java/com/atguitu/gulimall/ideproject/config/TaskPoolConfig.java" />
+        <option value="$PROJECT_DIR$/gulimall-project/src/main/java/com/atguitu/gulimall/ideproject/config/ThreadPoolConfigProperties.java" />
+        <option value="$PROJECT_DIR$/gulimall-project/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/gulimall-project/src/main/java/com/atguitu/gulimall/ideproject/config/MyThreadConfig.java" />
+        <option value="$PROJECT_DIR$/gulimall-project/src/main/java/com/atguitu/gulimall/ideproject/config/ThreadTest.java" />
+        <option value="$PROJECT_DIR$/gulimall-project/src/main/java/com/atguitu/gulimall/ideproject/service/ProjectTableService.java" />
+        <option value="$PROJECT_DIR$/gulimall-project/src/main/java/com/atguitu/gulimall/ideproject/service/impl/ProjectTableServiceImpl.java" />
+        <option value="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/config/ShiroConfig.java" />
+        <option value="$PROJECT_DIR$/gulimall-project/src/main/java/com/atguitu/gulimall/ideproject/controller/FileTableController.java" />
+        <option value="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/util/HttpUtils.java" />
+        <option value="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/service/SignUpService.java" />
+        <option value="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/service/impl/SignUpServicelmpl.java" />
+        <option value="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/Valid/ParamValidator.java" />
+        <option value="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/Valid/ValidParam.java" />
+        <option value="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/annotation/ValidParam.java" />
+        <option value="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/annotation/SignUpAnnotationValidator.java" />
+        <option value="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/annotation/SignUpAnnotation.java" />
+        <option value="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/controller/SysLoginController.java" />
+        <option value="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/controller/SysUserController.java" />
+        <option value="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/entity/SysSignupEntity.java" />
+        <option value="$PROJECT_DIR$/renren-fast/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/gulimall-project/src/main/resources/static/ideproject/test.txt" />
+        <option value="$PROJECT_DIR$/gulimall-project/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/gulimall-project/src/main/resources/static/ideproject/index.html" />
+        <option value="$PROJECT_DIR$/gulimall-project/src/main/resources/static/ideproject/12.txt" />
+        <option value="$PROJECT_DIR$/gulimall-project/src/main/resources/static/ideproject/zs.txt" />
+        <option value="$PROJECT_DIR$/gulimall-project/src/main/resources/static/dist/index.html" />
+        <option value="$PROJECT_DIR$/gulimall-project/src/main/resources/static/ideproject/dist/index.html" />
+        <option value="$PROJECT_DIR$/gulimall-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/gulimall-project/pom.xml" />
+        <option value="$PROJECT_DIR$/gulimall-gateway/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/config/RedisConfig.java" />
+        <option value="$PROJECT_DIR$/renren-fast/pom.xml" />
+        <option value="$PROJECT_DIR$/renren-fast/src/main/resources/application-dev.yml" />
+        <option value="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/RenrenApplication.java" />
+        <option value="$PROJECT_DIR$/gulimall-project/src/main/java/com/atguitu/gulimall/ideproject/Utils/FileRunThread.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\maven\apache-maven-3.6.1-bin\apache-maven-3.6.1\repository" />
+        <option name="userSettingsFile" value="E:\maven\apache-maven-3.6.1-bin\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-53" />
+    <option name="y" value="112" />
+    <option name="width" value="1830" />
+    <option name="height" value="975" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.4597701" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="io.renren.modules.sys.Valid" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="io.renren" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="io.renren.modules.sys.Valid" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atguitu.gulimall.ideproject" />
+      <recent name="java.com.atguigu.gulimall.project" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WebIDE\ide\gulimall-project\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.30447987" />
+  </component>
+  <component name="RunManager" selected="Compound.ide">
+    <configuration name="FileAndPackageCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileAndPackageCopy" />
+      <module name="gulimall-project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileAndPackageUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguitu.gulimall.ideproject.Utils.FileAndPackageUtil" />
+      <module name="gulimall-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguitu.gulimall.ideproject.Utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileRunThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguitu.gulimall.ideproject.Utils.FileRunThread" />
+      <module name="gulimall-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguitu.gulimall.ideproject.Utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NPM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguitu.gulimall.ideproject.Utils.NPM" />
+      <module name="gulimall-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguitu.gulimall.ideproject.Utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguitu.gulimall.ideproject.config.ThreadTest" />
+      <module name="gulimall-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguitu.gulimall.ideproject.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CompoundRunConfigurationType">
+      <toRun name="RenrenApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="GulimallGatewayApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="GulimallProjectApplication" type="SpringBootApplicationConfigurationType" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ide" type="CompoundRunConfigurationType">
+      <toRun name="GulimallProjectApplicaion" type="SpringBootApplicationConfigurationType" />
+      <toRun name="GulimallGatewayApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="RenrenApplication" type="SpringBootApplicationConfigurationType" />
+      <method v="2" />
+    </configuration>
+    <configuration name="GulimallCommonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gulimall-common" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.common.GulimallCommonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GulimallGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gulimall-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gulimall.gateway.GulimallGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GulimallProjectApplicaion" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gulimall-project" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguitu.gulimall.ideproject.GulimallProjectApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RenrenApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="renren-fast" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.renren.RenrenApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.NPM" />
+      <item itemvalue="Application.FileAndPackageCopy" />
+      <item itemvalue="Application.FileAndPackageUtil" />
+      <item itemvalue="Application.FileRunThread" />
+      <item itemvalue="Application.ThreadTest" />
+      <item itemvalue="Compound.ide" />
+      <item itemvalue="Spring Boot.GulimallCommonApplication" />
+      <item itemvalue="Spring Boot.GulimallGatewayApplication" />
+      <item itemvalue="Spring Boot.RenrenApplication" />
+      <item itemvalue="Spring Boot.GulimallProjectApplicaion" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ThreadTest" />
+        <item itemvalue="Application.FileAndPackageUtil" />
+        <item itemvalue="Application.FileRunThread" />
+        <item itemvalue="Application.FileAndPackageCopy" />
+        <item itemvalue="Application.NPM" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="310bf439-8c3e-4c77-b454-1113fc648712" name="Default Changelist" comment="" />
+      <created>1633047720169</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633047720169</updated>
+      <workItem from="1633047721408" duration="7364000" />
+      <workItem from="1633074822964" duration="1096000" />
+      <workItem from="1633087517572" duration="1251000" />
+      <workItem from="1633749466028" duration="971000" />
+      <workItem from="1633750799094" duration="2002000" />
+      <workItem from="1633754164734" duration="18080000" />
+      <workItem from="1633839537115" duration="3281000" />
+      <workItem from="1633861658615" duration="999000" />
+      <workItem from="1633875848094" duration="832000" />
+      <workItem from="1633913427735" duration="8280000" />
+      <workItem from="1633931036691" duration="927000" />
+      <workItem from="1633943040410" duration="5785000" />
+      <workItem from="1633952601879" duration="1981000" />
+      <workItem from="1633960137213" duration="665000" />
+      <workItem from="1633995487408" duration="395000" />
+      <workItem from="1634008040801" duration="3267000" />
+      <workItem from="1634028374342" duration="19496000" />
+      <workItem from="1634052269889" duration="103000" />
+      <workItem from="1634052405677" duration="51000" />
+      <workItem from="1634052606053" duration="433000" />
+      <workItem from="1634053117353" duration="2170000" />
+      <workItem from="1634055355772" duration="746000" />
+      <workItem from="1634093032660" duration="776000" />
+      <workItem from="1634093845276" duration="128000" />
+      <workItem from="1634093996595" duration="660000" />
+      <workItem from="1634094921448" duration="14054000" />
+      <workItem from="1634132914621" duration="3544000" />
+      <workItem from="1634170993120" duration="4679000" />
+      <workItem from="1634200554913" duration="17087000" />
+      <workItem from="1634391051853" duration="1847000" />
+      <workItem from="1634396778849" duration="1282000" />
+      <workItem from="1634434727571" duration="2993000" />
+      <workItem from="1634460565705" duration="13323000" />
+      <workItem from="1634520892717" duration="7961000" />
+      <workItem from="1634547044684" duration="6919000" />
+      <workItem from="1634566712201" duration="5156000" />
+      <workItem from="1634572339950" duration="523000" />
+      <workItem from="1634613136075" duration="7171000" />
+      <workItem from="1634645596660" duration="974000" />
+      <workItem from="1634699038794" duration="1488000" />
+      <workItem from="1634700588578" duration="10000" />
+      <workItem from="1634700622573" duration="12078000" />
+      <workItem from="1634727658260" duration="16000" />
+      <workItem from="1634733941883" duration="20000" />
+      <workItem from="1634744531639" duration="1508000" />
+      <workItem from="1635122199835" duration="1109000" />
+      <workItem from="1635216205739" duration="1272000" />
+      <workItem from="1635246789164" duration="1394000" />
+      <workItem from="1635320422427" duration="4672000" />
+      <workItem from="1635655063425" duration="4632000" />
+      <workItem from="1635675909775" duration="5857000" />
+      <workItem from="1635684640080" duration="3156000" />
+      <workItem from="1635731013839" duration="7473000" />
+      <workItem from="1635773726851" duration="14000" />
+      <workItem from="1635847448002" duration="1125000" />
+      <workItem from="1635852256573" duration="836000" />
+      <workItem from="1635857540639" duration="40000" />
+      <workItem from="1635908040114" duration="8183000" />
+      <workItem from="1635937973759" duration="1355000" />
+      <workItem from="1635939852594" duration="29000" />
+      <workItem from="1635940969781" duration="12000" />
+      <workItem from="1635943840745" duration="503000" />
+      <workItem from="1635944563471" duration="2598000" />
+      <workItem from="1635951309266" duration="289000" />
+      <workItem from="1635951615184" duration="42000" />
+      <workItem from="1635951900361" duration="216000" />
+      <workItem from="1636028602212" duration="112000" />
+      <workItem from="1636028740418" duration="5000" />
+      <workItem from="1636029019866" duration="1394000" />
+      <workItem from="1636034045166" duration="120000" />
+      <workItem from="1636115838419" duration="58000" />
+      <workItem from="1636121208369" duration="2439000" />
+      <workItem from="1636124501887" duration="12000" />
+      <workItem from="1636125701576" duration="609000" />
+      <workItem from="1636126831311" duration="5000" />
+      <workItem from="1636155215873" duration="3069000" />
+      <workItem from="1636160304321" duration="178000" />
+      <workItem from="1636207441990" duration="237000" />
+      <workItem from="1636207956589" duration="350000" />
+      <workItem from="1636987155670" duration="1007000" />
+      <workItem from="1641264072489" duration="2143000" />
+      <workItem from="1641266567727" duration="705000" />
+      <workItem from="1641363726135" duration="581000" />
+      <workItem from="1641632439114" duration="8000" />
+      <workItem from="1647655433199" duration="3968000" />
+      <workItem from="1649589204375" duration="640000" />
+      <workItem from="1650283295198" duration="1665000" />
+      <workItem from="1651212082658" duration="20000" />
+      <workItem from="1652698835576" duration="1229000" />
+      <workItem from="1652713010876" duration="1002000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="250735000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-53" y="112" width="1830" height="975" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3141243" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49908593" weight="0.5254237" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48892674" weight="0.38058552" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49933156" weight="0.39939487" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49933156" weight="0.32779098" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4986631" weight="0.32980332" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.108630955" side_tool="true" weight="0.6258322" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.47184986" weight="0.391924" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" order="15" sideWeight="0.89136904" visible="true" weight="0.4019025" />
+      <window_info anchor="bottom" id="Problems" order="16" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962853" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24963072" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.020903954" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/userFile/Angularproject/src/main.js" />
+      </list>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/gulimall-project/src/main/java/com/atguitu/gulimall/ideproject/service/impl/FileTableServiceImpl.java</url>
+          <line>103</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/oauth2/OAuth2Filter.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/gulimall-project/src/main/resources/mapper/ideproject/FileTableDao.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renren-fast/src/main/java/io/renren/config/MybatisPlusConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renren-fast/src/main/java/io/renren/config/RedisConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="59" column="74" selection-start-line="59" selection-start-column="74" selection-end-line="59" selection-end-column="74" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/maven/apache-maven-3.6.1-bin/apache-maven-3.6.1/repository/org/springframework/data/spring-data-redis/2.1.10.RELEASE/spring-data-redis-2.1.10.RELEASE-sources.jar!/org/springframework/data/redis/core/RedisTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="85" column="13" selection-start-line="85" selection-start-column="13" selection-end-line="85" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulimall-project/src/main/java/com/atguitu/gulimall/ideproject/entity/FileTableEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="34" column="31" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulimall-project/src/main/java/com/atguitu/gulimall/ideproject/entity/ProjectTableEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulimall-project/src/main/java/com/atguitu/gulimall/ideproject/entity/UserTableEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulimall-project/src/main/java/com/atguitu/gulimall/ideproject/entity/TemplateTableEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulimall-project/src/main/java/com/atguitu/gulimall/ideproject/entity/TemplateFileTableEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="48" column="7" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renren-fast/src/main/resources/logback-spring.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/entity/SysConfigEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulimall-project/src/main/java/com/atguitu/gulimall/ideproject/config/ThreadTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulimall-project/src/main/java/com/atguitu/gulimall/ideproject/config/ThreadPoolConfigProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulimall-project/src/main/java/com/atguitu/gulimall/ideproject/config/MyThreadConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renren-fast/src/main/java/io/renren/common/utils/RedisKeys.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renren-fast/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renren-fast/src/main/resources/application-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulimall-project/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulimall-project/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1330">
+          <caret line="70" column="13" selection-start-line="70" selection-start-column="13" selection-end-line="70" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renren-fast/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2470">
+          <caret line="130" column="47" selection-start-line="130" selection-start-column="47" selection-end-line="130" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renren-fast/src/main/java/io/renren/common/utils/RedisUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="988">
+          <caret line="67" column="20" selection-start-line="67" selection-start-column="20" selection-end-line="67" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renren-fast/src/main/java/io/renren/RenrenApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/app/entity/UserEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/app/entity/UserTableEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/app/entity/ProjectTableEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/app/form/RegisterForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/service/SignUpService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/service/impl/SignUpServicelmpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="57" column="3" selection-start-line="57" selection-start-column="3" selection-end-line="68" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/controller/SysConfigController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/controller/SysLoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="47" column="4" lean-forward="true" selection-start-line="47" selection-start-column="4" selection-end-line="59" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renren-fast/src/main/java/io/renren/common/validator/group/AddGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renren-fast/src/main/java/io/renren/common/validator/group/UpdateGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/form/SysLoginForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/redis/SysConfigRedis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/form/PasswordForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/entity/SysUserEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renren-fast/src/main/java/io/renren/common/validator/ValidatorUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="37" column="3" selection-start-line="37" selection-start-column="3" selection-end-line="47" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renren-fast/src/main/java/io/renren/common/validator/Assert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulimall-project/src/main/java/com/atguitu/gulimall/ideproject/service/FileTableService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulimall-project/src/main/java/com/atguitu/gulimall/ideproject/Utils/Ziputils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2660">
+          <caret line="148" selection-start-line="109" selection-start-column="3" selection-end-line="148" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulimall-project/src/main/java/com/atguitu/gulimall/ideproject/Utils/NPM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulimall-project/src/main/java/com/atguitu/gulimall/ideproject/Utils/StartWeb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulimall-project/src/main/java/com/atguitu/gulimall/ideproject/Utils/FileAndPackageUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulimall-project/src/main/java/com/atguitu/gulimall/ideproject/GulimallProjectApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulimall-project/src/main/java/com/atguitu/gulimall/ideproject/service/impl/FileTableServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4914">
+          <caret line="208" column="56" selection-start-line="208" selection-start-column="56" selection-end-line="208" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulimall-project/src/main/java/com/atguitu/gulimall/ideproject/controller/FileTableController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3726">
+          <caret line="163" column="15" selection-start-line="163" selection-start-column="15" selection-end-line="163" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulimall-common/src/main/java/com/atguigu/common/utils/R.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1269">
+          <caret line="62" column="26" selection-start-line="62" selection-start-column="26" selection-end-line="62" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulimall-project/src/main/java/com/atguitu/gulimall/ideproject/controller/ProjectTableController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="39" column="12" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulimall-project/src/main/java/com/atguitu/gulimall/ideproject/service/impl/ProjectTableServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulimall-project/src/main/java/com/atguitu/gulimall/ideproject/Utils/FileRunThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.4597701" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.4597701" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.4597701" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.4597701" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>gulimall-project</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.4597701" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.4597701" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

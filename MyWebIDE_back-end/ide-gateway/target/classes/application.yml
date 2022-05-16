@@ -1,0 +1,30 @@
+spring:
+  cloud:
+    #配置sentinel
+    sentinel:
+      transport:
+        dashboard: localhost:8080
+        #控制台的port
+        port: 8719
+      scg:
+        fallback:
+          #如果限流成功 给我返回json
+          content-type: application.json
+          #错误状态码
+          response-status: 400
+    gateway:
+      routes:
+
+        - id: project-route
+          uri: lb://gulimall-project
+          predicates:
+            - Path=/api/ideproject/**
+          filters:
+            - RewritePath=/api/(?<segment>.*),/$\{segment}
+
+        - id: admin_route
+          uri: lb://renren-fast #负载均衡到哪里
+          predicates: #你的判断依据是：
+            - Path=/api/**
+          filters: #路径重写 下面是！
+            - RewritePath=/api/(?<segment>.*),/renren-fast/$\{segment}
